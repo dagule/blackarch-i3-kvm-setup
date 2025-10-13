@@ -1,0 +1,30 @@
+2 STEP
+Got it ✅ — before we continue:
+Setting up **GPU passthrough** (a.k.a. **VFIO passthrough**) on your **ASUS TUF F15** so that your **KVM VMs (like Kali, Windows, or BlackArch test boxes)** can use your **NVIDIA GPU directly** for accelerated graphics is *totally possible*, but it’s a **complex and hardware-sensitive process** that involves modifying system-level configuration (bootloader, kernel modules, and IOMMU groups).
+
+To make sure I give you **the exact correct setup**, I need a few details about your system first 👇
+
+Please open a terminal and run these **three commands**, then paste the outputs here (you can copy them all at once):
+
+```bash
+# 1️⃣ Detect GPU model
+lspci | grep -E "VGA|3D"
+
+# 2️⃣ Check CPU and IOMMU support
+lscpu | grep Virtualization
+dmesg | grep -e DMAR -e IOMMU
+
+# 3️⃣ List all PCI devices with IDs
+lspci -nn
+```
+
+Once you paste those results, I’ll give you:
+
+* The exact **VFIO passthrough setup guide** for your TUF F15 (with correct PCI IDs)
+* The **safe fallback boot option** (in case the GPU locks up)
+* And an **automated script** to apply it without manual mistakes
+
+Would you like me to show you *how to collect that info safely* using a copy-paste ready command that saves it into a file (`gpuinfo.txt`) you can share?
+
+
+
